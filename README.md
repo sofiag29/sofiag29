@@ -5,7 +5,7 @@
 
 ### 💻 Estudiante de Servicios Informáticos
 
-✨ Aprendiendo, creando y construyendo mi futuro en el mundo de la tecnología.
+ Aprendiendo, creando y construyendo mi futuro en el mundo de la tecnología.
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&color=E879C5&size=22&center=true&vCenter=true&width=500&lines=Bienvenidos+a+mi+GitHub+%F0%9F%92%97;Aprendiendo+algo+nuevo+cada+d%C3%ADa;So%C3%B1ando+en+grande+%F0%9F%9A%80" />
 
@@ -15,12 +15,12 @@
 
 ## 🌸 Sobre mí
 
-- 🎓 Estudiante de Servicios Informáticos.
-- 💡 Interesada en la tecnología y la innovación.
-- 🤖 Explorando el mundo de la Inteligencia Artificial.
-- 💻 Aprendiendo desarrollo de software.
-- 🚀 Me encanta descubrir cosas nuevas y superar retos.
-- 🌷 Persistente, soñadora y con muchas metas por cumplir.
+-  Estudiante de Servicios Informáticos.
+-  Interesada en la tecnología y la innovación.
+-  Explorando el mundo de la Inteligencia Artificial.
+-  Aprendiendo desarrollo de software.
+-  Me encanta descubrir cosas nuevas y superar retos.
+-  Persistente, soñadora y con muchas metas por cumplir.
 
 ## 🛠️ Tecnologías que estoy aprendiendo
 
@@ -32,13 +32,13 @@
 
 ## 🎯 Mis objetivos
 
-✨ Fortalecer mis conocimientos en programación.
+ Fortalecer mis conocimientos en programación.
 
-✨ Crear mis propios proyectos.
+ Crear mis propios proyectos.
 
-✨ Aprender nuevas tecnologías.
+ Aprender nuevas tecnologías.
 
-✨ Convertir mis ideas en realidad.
+ Convertir mis ideas en realidad.
 
 ---
 
