@@ -1,4 +1,4 @@
-## Hi there 👋 mi nombre es sofia
+
 <div align="center">
 
 # 🌷 ¡Hola! Soy Sofía 👋
